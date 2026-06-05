@@ -1,9 +1,9 @@
 {
   "63b263b53220c263427f2badebfc621a": {
-    "expiry": "2026-11-10",
+    "expiry": "2026-11-17",
     "status": "ACTIVE",
-    "updated": "2026-06-06 01:34:57",
-    "key_sig": "fdf6aa13f49494329cbcc4ea581ec7d01548112f9996f758dcc1604f265c8f04"
+    "updated": "2026-06-06 01:41:06",
+    "key_sig": "13b78ed9dc739fa5b125f9cb17577de2f8e3d9b5f83227d4f7501612c8a3bef8"
   },
   "4234342ea13a145809267e6bff31fbc8": {
     "expiry": "2026-06-11",
