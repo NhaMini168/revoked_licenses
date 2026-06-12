@@ -38,10 +38,10 @@
     "key_sig": "1c0e969f61fed4f133b95ea4a63bd0ef9903122fc1312af0830fdd012fcd074a"
   },
   "6d27f57af37060443057170acf2ce7d4": {
-    "expiry": "2026-07-18",
+    "expiry": "2026-08-18",
     "status": "ACTIVE",
-    "updated": "2026-06-13 01:11:52",
-    "key_sig": "66ede345c1de952f0b87a24d3f6b6b1c0aad293aed2504aa0b88f56ce836aef9"
+    "updated": "2026-06-13 01:33:17",
+    "key_sig": "f041084dd97d4856da44e21678fa2ac1366b4774e0a89e62d854c9b49b997e49"
   },
   "ebf9fd88f82da048ca5807b7718c3f8f": {
     "expiry": "2026-08-11",
