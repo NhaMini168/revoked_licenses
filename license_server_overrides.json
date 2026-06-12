@@ -1,9 +1,9 @@
 {
   "63b263b53220c263427f2badebfc621a": {
-    "expiry": "2026-12-24",
-    "status": "ACTIVE",
-    "updated": "2026-06-09 23:12:39",
-    "key_sig": "54a2dd4699c2c38d5ad06a65a3465109107fdb6b049a6b5b9d8eb7072ebd991e"
+    "expiry": "2000-01-01",
+    "status": "CLEARED",
+    "updated": "2026-06-13 02:25:53",
+    "key_sig": ""
   },
   "4234342ea13a145809267e6bff31fbc8": {
     "expiry": "2026-06-11",
