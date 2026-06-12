@@ -44,9 +44,9 @@
     "key_sig": "15161f4612be6979e879263bfd5806fa6194453def171a00b6958d6eca211f56"
   },
   "63b263b53220c263427f2badebfc621a": {
-    "expiry": "2026-06-19",
+    "expiry": "2026-06-26",
     "status": "ACTIVE",
-    "updated": "2026-06-13 04:04:20",
-    "key_sig": "6068a597247a581cc163f4456ab3b448f111a1f0bf77f12e0db239a1b54db9df"
+    "updated": "2026-06-13 04:05:43",
+    "key_sig": "d1d5119f04f833f502ce17bf9bacad504290dcbdad6e17c4f5f28ca6a6892180"
   }
 }
