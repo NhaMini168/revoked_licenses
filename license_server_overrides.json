@@ -78,5 +78,11 @@
     "status": "ACTIVE",
     "updated": "2026-06-23 15:24:01",
     "key_sig": "a804d00dd792aac663aec0fa509d6f572ecc848bbfc44cfc823712f337fcd497"
+  },
+  "1D0BAFF3-E121-F099-3BFC-04D9F5D0FA30": {
+    "expiry": "2026-07-08",
+    "status": "ACTIVE",
+    "updated": "2026-07-01 09:43:16",
+    "key_sig": "9b761aaf24ee1c70a98c93b50adccdc6cc2a2b23e29b90fc36eda4807133d7c4"
   }
 }
