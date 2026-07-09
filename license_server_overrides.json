@@ -61,10 +61,10 @@
     "updated": "2026-07-09 13:52:29"
   },
   "63b263b53220c263427f2badebfc621a": {
-    "expiry": "2026-10-29",
+    "expiry": "2028-10-29",
     "status": "ACTIVE",
-    "updated": "2026-07-09 04:24:16",
-    "key_sig": "5f7c959083d0b24c1e4c688e0cd4c1fa9b5b41b019d60e3afcbe707b46792f50"
+    "updated": "2026-07-09 18:55:27",
+    "key_sig": "87bc2ad94226ef5e5eb8725d196903c730ebf1c6ffc1bc2d068d4e4d36ea9f75"
   },
   "ff02deca77c94d57c1cf68966b3dbfa2": {
     "expiry": "2026-06-30",
