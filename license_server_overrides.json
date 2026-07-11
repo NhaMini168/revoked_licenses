@@ -79,9 +79,9 @@
     "key_sig": "9b761aaf24ee1c70a98c93b50adccdc6cc2a2b23e29b90fc36eda4807133d7c4"
   },
   "63b263b53220c263427f2badebfc621a": {
-    "expiry": "2026-07-25",
+    "expiry": "2026-08-01",
     "status": "ACTIVE",
-    "updated": "2026-07-10 22:40:53",
-    "key_sig": "b5a8799140ae4d69c7af6a6cad0280df8d2d2b8677a1a79401ce731c058521cb"
+    "updated": "2026-07-11 12:07:07",
+    "key_sig": "d6d2be848e500aa6fc505b9cf156c0d8ddb863b30d5a44435f28a0450090b521"
   }
 }
