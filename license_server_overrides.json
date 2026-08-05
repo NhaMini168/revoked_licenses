@@ -50,10 +50,9 @@
     "key_sig": "45613d38e6df34df08f089036e2f7d0ffd969e5adcbb07b9b8a66491443050e3"
   },
   "6d27f57af37060443057170acf2ce7d4": {
-    "expiry": "2099-12-31",
-    "status": "ACTIVE",
-    "updated": "2026-07-20 10:33:28",
-    "key_sig": "6d8fec13ee5074129e9c6069b92312f802f322bd48fe67fc1fee0409b1d24cea"
+    "expiry": "2000-01-01",
+    "status": "REVOKED",
+    "updated": "2026-08-06 00:48:28"
   },
   "9b653997f2668a7ebdfb063ebd922450": {
     "expiry": "2000-01-01",
