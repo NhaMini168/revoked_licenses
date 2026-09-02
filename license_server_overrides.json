@@ -80,8 +80,9 @@
     "key_sig": "6d964c37150de10532cc8bf6cb16071d2427df526f6dc9b78d5b4bf9804f6306"
   },
   "9b653997f2668a7ebdfb063ebd922450": {
-    "expiry": "2000-01-01",
-    "status": "REVOKED",
-    "updated": "2026-09-02 17:02:45"
+    "expiry": "2026-09-07",
+    "status": "ACTIVE",
+    "updated": "2026-09-02 19:53:33",
+    "key_sig": "308d4004108b20eea0cfbdb99ce75e4065d20ec489e1eda3359f4140ff16177b"
   }
 }
